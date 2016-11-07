@@ -1,0 +1,12 @@
+
+.container {
+    text-align: center;
+}
+
+.choice {
+    border: 1px solid;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    padding: 20px;
+}
